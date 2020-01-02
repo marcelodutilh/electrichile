@@ -20,8 +20,10 @@ display: inline-block;
 .logo{
     width: 100px;
 }
-.contenedor-quienes-somos{
-    height: 200px;
+.imagen_conocenos{
+    width: 45%;
+    height: auto;
+
 }
 
 .call_number{
